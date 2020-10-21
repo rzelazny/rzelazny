@@ -2,6 +2,7 @@
 
 <!--
 **rzelazny/rzelazny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Longtime software dev in proprietary software, I'm now working on becoming a full stack developer.
 
 Here are some ideas to get you started:
 
