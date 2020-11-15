@@ -1,4 +1,4 @@
-### Welcome 👋
+# Welcome 👋
 
 A longtime StepWise software developer, I'm now on my way to being a full stack dev.  
 
