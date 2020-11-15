@@ -1,19 +1,17 @@
-### Hi there 👋
+### Welcome 👋
 
-Longtime StepWise software developer, I'm now on my way to being a full stack dev. 
+A longtime StepWise software developer, I'm now on my way to being a full stack dev.  
 
-<!--
-**rzelazny/rzelazny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I live in upstate New York with my wife and two adorable dogs. I enjoy most forms of nerdery, and am a great cook. Ask me about my macaroni and cheese champion trophy.
 
 
-Here are some ideas to get you started:
+## Current Projects
+I'm attending Rutger's Coding Bootcamp until mid-January.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The current topic is Node.js. 
+
+## Contact Info 📫
+Feel free to reach out.
+ 
+ Email: RyanZelazny@gmail.com  
+ LinkedIn: https://www.linkedin.com/in/ryan-zelazny-62369849/
