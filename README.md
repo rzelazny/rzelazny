@@ -13,4 +13,4 @@ The current topic is Heroku deployments with SQL databases.
 Feel free to reach out.
  
  Email: RyanZelazny@gmail.com  
- LinkedIn: https://www.linkedin.com/in/ryan-zelazny-62369849/
+ LinkedIn: https://www.linkedin.com/in/ryan-zelazny/
