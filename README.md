@@ -7,7 +7,7 @@ I live in upstate New York with my wife and two adorable dogs. I enjoy most form
 ## Current Projects
 I'm attending Rutger's Coding Bootcamp until mid-January.  
 
-The current topic is noSQL and MongoDB. 
+The current topic is React and the MERN stack. 
 
 ## Contact Info 📫
 Feel free to reach out.
