@@ -1,6 +1,6 @@
 # Welcome 👋
 
-A longtime StepWise software developer, I'm now on my way to being a full stack dev.  
+A longtime StepWise software developer, I'm now on my way to being a MERN full stack dev.  
 
 I live in upstate New York with my wife and two adorable dogs. I enjoy most forms of nerdery and am a great cook. Ask me about my macaroni and cheese championship trophy.
 
