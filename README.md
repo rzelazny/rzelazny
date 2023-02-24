@@ -1,6 +1,6 @@
 # Welcome 👋
 
-A longtime StepWise software developer, I'm now a fullstack developer at Nexient.
+A longtime software developer, I'm currently working at Nexient.
 
 I live in upstate New York with my wife and two adorable dogs. I enjoy most forms of nerdery and am a great cook. Ask me about my macaroni and cheese championship trophy.
 
