@@ -1,11 +1,11 @@
 # Welcome 👋
 
-A longtime software developer, I'm currently working at Nexient.
+A longtime software developer, I'm currently searching for a new position. 
 
 I live in upstate New York with my wife and two adorable dogs. I enjoy most forms of nerdery and am a great cook. Ask me about my macaroni and cheese championship trophy.
 
 ## Current Personal Projects
-I'm dabbling in svelte. First target is to update my personal profile page.
+Having recently completed my AWS Cloud Practitioner certification, I'm working on switching my profile page to AWS hosting. 
 
 ## Older Projects
 https://github.com/rzelazny/board-game-mongodb
